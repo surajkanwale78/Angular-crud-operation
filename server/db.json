@@ -1,0 +1,66 @@
+{
+  "contacts": [
+    {
+      "id": "11111",
+      "name": " Dk",
+      "company": "the appineers",
+      "email": "dhiraj@gmail.com",
+      "title": "softwere",
+      "mobile": "9630388333",
+      "photo": "data:image/jpeg;base64,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",
+      "groupId": 1
+    },
+    {
+      "id": "22222",
+      "name": " Suraj kanwale",
+      "email": "suraj@gmail.com",
+      "company": "the appineers",
+      "title": "softwere engineering",
+      "mobile": "9730388541",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdRqjRLQdrS2wnRvE5Jhw1FSEMXPPGYRJaQ&usqp=CAU",
+      "groupId": 2
+    },
+    {
+      "id": "3333",
+      "name": " Raj patil",
+      "email": " raj@gmail.com",
+      "company": "the appineers",
+      "title": "softwere solution",
+      "mobile": "9030388344",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwHg9NeCSUSpG3vAGOmcNuPnbjj-YpMtX9w&usqp=CAU",
+      "groupId": 3
+    },
+    {
+      "id": "44444",
+      "name": "Shubham kadam",
+      "email": "shubham@gmail.com",
+      "company": "the appineers",
+      "title": "softwere",
+      "mobile": "9730388333",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftY0gE-FdoV-9pzdTykGQmYARn0y-nbKwLw7afHOyWis1dHLKcoWigIWHEn8iud4tLEo&usqp=CAU",
+      "groupId": 4
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "friends"
+    },
+    {
+      "id": "3",
+      "name": "cousin"
+    },
+    {
+      "id": "4",
+      "name": "community"
+    },
+    {
+      "id": "3",
+      "name": "social"
+    }
+  ]
+}
